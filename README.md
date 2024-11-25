@@ -20,7 +20,7 @@ Only aggregated, anonymized data is periodically transmitted to external service
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-Google Play Services
+**Google Play Services**
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -28,26 +28,26 @@ as required by law, such as to comply with a subpoena, or similar legal process;
 when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-Opt-Out Rights
+**Opt-Out Rights**
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 
-Data Retention Policy
+**Data Retention Policy**
 The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at jdavid.polanco@gmail.com and they will respond in a reasonable time.
 
 
-Children
+**Children**
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
 
 The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (jdavid.polanco@gmail.com) so that they will be able to take the necessary actions.
 
 
-Security
+**Security**
 The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
 
-Changes
+**Changes**
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
 
